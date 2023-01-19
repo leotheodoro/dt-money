@@ -15,6 +15,22 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2023-01-19T11:34:34.769Z"
+    },
+    {
+      "description": "Freela",
+      "price": 8000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-01-19T23:15:14.775Z",
+      "id": 3
+    },
+    {
+      "description": "Pastel",
+      "price": 5,
+      "category": "Lanche",
+      "type": "outcome",
+      "createdAt": "2023-01-19T23:24:40.595Z",
+      "id": 4
     }
   ]
 }
